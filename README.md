@@ -13,7 +13,7 @@
 
 My path into security started with a problem-solving mindset. I hold a **BSc in Industrial Engineering & Management**, where I first fell for programming and the way code turns messy problems into solvable ones. That pulled me into a **MSc in Data Science**, where I sharpened my **Python** and **SQL**, learned how data really flows in real-world streaming systems, and how **ML models hold up in production** to solve concrete business problems.
 
-In my final master's year I got hooked on **cybersecurity**. For a year I went deep through **TryHackMe labs**, open-source content, and home projects. Wanting to understand systems from the ground up, I enrolled at **42 Lisbon** to master **C** and low-level memory manipulation — knowledge I now put to work in **reverse engineering**.
+In my final master's year I got hooked on **cybersecurity**. For a year I went deep through **TryHackMe labs**, open-source content, and home projects. Wanting to understand systems from the ground up, I enrolled at **42 Lisbon** to master **C** and low-level memory manipulation   knowledge I now put to work in **reverse engineering**.
 
 Today I work across the full security lifecycle from **pentesting, CTEM, and incident response** and I build **AI-driven security tooling** on top of it.
 
@@ -24,7 +24,7 @@ Today I work across the full security lifecycle from **pentesting, CTEM, and inc
 | Project | What it is |
 |---|---|
 | **[Python42](https://github.com/gustavocg0/Python42)** | An autonomous **multi-agent "engineering organization"** built on Claude Code that designs and builds a SOC platform end-to-end with 19 specialized agents (PM, architecture, threat modeling, QA, NIS2/DORA/GDPR compliance). Dockerized, modern Python (uv, Ruff). |
-| **[NIDS Thesis](https://github.com/gustavocg0/MDDSAA_thesis_GG)** | Full **ML pipeline** for evaluating how validation strategies affect the reported performance of Network Intrusion Detection Systems — preprocessing, model training, drift detection, evaluation & reporting. |
+| **[NIDS Thesis](https://github.com/gustavocg0/MDDSAA_thesis_GG)** | Full **ML pipeline** for evaluating how validation strategies affect the reported performance of Network Intrusion Detection Systems   preprocessing, model training, drift detection, evaluation & reporting. |
 
 ---
 
@@ -56,4 +56,4 @@ Today I work across the full security lifecycle from **pentesting, CTEM, and inc
 
 ---
 
-<p align="center"><i>🇵🇹 Portuguese (native) · 🇬🇧 English (C1) · 🇪🇸 Spanish — open to security engineering & research opportunities.</i></p>
+<p align="center"><i>🇵🇹 Portuguese (native) · 🇬🇧 English (C1) · 🇪🇸 Spanish   open to security engineering & research opportunities.</i></p>
