@@ -53,7 +53,4 @@ Today I work across the full security lifecycle from **pentesting, CTEM, and inc
 
 ---
 
-
----
-
 <p align="center"><i>🇵🇹 Portuguese (native) · 🇬🇧 English (C1) · 🇪🇸 Spanish   open to security engineering & research opportunities.</i></p>
