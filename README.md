@@ -15,7 +15,7 @@ My path into security started with a problem-solving mindset. I hold a **BSc in 
 
 In my final master's year I got hooked on **cybersecurity**. For a year I went deep through **TryHackMe labs**, open-source content, and home projects. Wanting to understand systems from the ground up, I enrolled at **42 Lisbon** to master **C** and low-level memory manipulation — knowledge I now put to work in **reverse engineering**.
 
-Today I work across the full security lifecycle — **pentesting, CTEM, and incident response** — and I build **AI-driven security tooling** on top of it.
+Today I work across the full security lifecycle from **pentesting, CTEM, and incident response** and I build **AI-driven security tooling** on top of it.
 
 ---
 
