@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gustavo 👋</h1>
+<h1 align="center">Hi, I'm Gustavo </h1>
 <h3 align="center">Offensive & Defensive Security · AI-Driven Security Tooling · Low-Level Programming</h3>
 
 <p align="center">
